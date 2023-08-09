@@ -1,7 +1,9 @@
 # Project #3 - Apply OS Hardening Techniques
 
-> Notes For The Readers:
+> __Notes For The Readers:__
 >
+> I was given the prompt and DNS & HTTP traffic log. My own personal analysis can be found in `Security Incident Report`.
+> 
 > After reading the the prompt outlined in this `README` file, please navigate to the `Security Incident Report` file in the `main` branch. 
 
 ## Objective:  

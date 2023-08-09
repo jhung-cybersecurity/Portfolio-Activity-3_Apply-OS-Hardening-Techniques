@@ -1,4 +1,4 @@
-# Project #3 - Apply OS Hardening Techniques
+# Portfolio Activity #3 - Apply OS Hardening Techniques
 
 > __Notes For The Readers:__
 >
